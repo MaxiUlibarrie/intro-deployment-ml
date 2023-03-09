@@ -1,3 +1,6 @@
-dataset
+credentials/
 
-model
+*.csv
+*.pkl
+
+.ipynb_checkpoints/
