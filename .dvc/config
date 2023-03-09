@@ -1,0 +1,4 @@
+['remote "dataset-track"']
+    url = gs://intro-ml-deploy.appspot.com/dataset
+['remote "model-track"']
+    url = gs://intro-ml-deploy.appspot.com/model
