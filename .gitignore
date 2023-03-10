@@ -3,7 +3,7 @@ credentials/
 *.csv
 *.pkl
 *.png
-*.txt
+report.txt
 
 .ipynb_checkpoints/
 __pycache__/
